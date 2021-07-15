@@ -1,27 +1,38 @@
 p {
     text-align: center;
     font-size: 16px;
-    color: white;
+    color: #444;;
     line-height: 1.6;
     font-family: Raleway;
     font-weight: 500;
 }
 article {
-    background-image: url('articles/.home/aboutus.md/04.jpg');
-    background-size: cover;
-    padding: 75px 300px;
+    background: white;
+    padding: 0 0 75px;
     color: #000;
 }
 h1 {
     text-align: center;
     font-size: 2.5em;
-    color: white;
+    color: #444;;
     font-family: Raleway;
     font-weight: 800;
     margin-bottom: 30px;
 }
+h3 {
+    text-align: center;
+    color: #444;;
+    font-family: Raleway;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
 body {
     margin: 0;
+}
+
+table {
+    width: 100%;
+    padding: 0 300px;
 }
 
 @media (min-width: 320px) and (max-width: 767px) {

@@ -9,7 +9,7 @@ SCHEMA
     "email": {"html":"content-post", "article":"{{url.article_path}}/email.md", "id":"email", "style":"padding-bottom:40px;background:rgba(255,255,255);padding-top:20px;padding-left:80px;padding-right:80px;", "styleArticle":"url(./pages/contactus/contactus.styleArticle.css)"},
     "locations": {"html":"content-post", "article":"{{url.article_path}}/locations.md", "id":"locations", "style":"padding-bottom:40px;background:rgba(255,255,255);padding-top:20px;padding-left:80px;padding-right:80px;", "styleArticle":"url(./pages/contactus/contactus.styleArticle.css)", "styleBody":"td:not(:last-child) {border-right : solid 1px #efefef;}"},
     "footer": {"html":"content-post", "article":".home/footer.md", "id":"footer", "styleContainer":"background:rgba(255, 255, 255);color:white;height:270px", "styleArticle":"url(./pages/common/footer.styleArticle.css)"},
-    "copyrights": {"html":"content-post", "article":".home/copyright.md", "id":"copyright", "styleContainer":"background:white;height:60px;color:#787878;", "styleArticle":"url(./pages/common/copyrights.styleArticle.css)"}
+    "copyrights": {"html":"content-post", "article":".home/copyright.md", "id":"copyright", "styleContainer":"background:#222;height:60px;color:#787878;", "styleArticle":"url(./pages/common/copyrights.styleArticle.css)"}
 }
 ======
 

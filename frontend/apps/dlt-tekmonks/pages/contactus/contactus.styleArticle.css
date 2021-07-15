@@ -9,7 +9,7 @@ article {
     max-width: 1040px;
 }
 h1 {
-    color: #a81010;
+    color: #444;;
     text-align: center;
     font-size: 36px;
     font-weight: 600;
@@ -19,7 +19,7 @@ h1 {
 }
 h2 {
     font-size: 30px;
-    color: #0f4b9c;
+    color: #444;
     font-weight: 600;
     text-transform: capitalize;
     text-align: center;
